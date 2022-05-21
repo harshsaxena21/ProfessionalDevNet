@@ -1,0 +1,6 @@
+{
+	"githubToken": "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",
+	"mongoURI": "mongodb+srv://project21:project21@cluster0.u6zoo.mongodb.net/networkdb?retryWrites=true&w=majority", 
+	"jwtSecret": "thisisprofessionalnetwork"
+}
+
